@@ -16,8 +16,13 @@ Unemployment is measured by the unemployment rate which is the number of people 
 **Project Approach:**
 
 1.Importing Libraries
+
 2.Loading the Dataset
+
 3.Loading the Dataset
+
 4.Exploratory Data Analysis (EDA)
+
 5.Analysis
+
 6.Visualization
